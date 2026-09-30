@@ -1,0 +1,1 @@
+flag{jwt_n0ne_alg_byp4ss_str1kes_ag41n}
